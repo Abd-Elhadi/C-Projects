@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1583233435 source:c:\users\pc\desktop\oop\bigdecimalint\main.cpp
+	<bits/stdc++.h>
+	"BigDecimalInt.h"
+
+1582909556 source:c:\users\pc\desktop\oop\bigdecimalint\bigdecimalint.cpp
+	"BigDecimalInt.h"
+
+1583869007 c:\users\pc\desktop\oop\bigdecimalint\bigdecimalint.h
+	<bits/stdc++.h>
+
+1582909556 c:\users\pc\desktop\oop\bigdecimalint\bigdecimalint.cpp
+	"BigDecimalInt.h"
+
+1583950724 source:c:\users\pc\desktop\assignment_1\problem_1\main.cpp
+	<bits/stdc++.h>
+	"BigDecimalInt.h"
+
+1583950883 c:\users\pc\desktop\assignment_1\problem_1\bigdecimalint.h
+	<bits/stdc++.h>
+
+1583869056 source:c:\users\pc\desktop\assignment_1\problem_1\bigdecimalint.cpp
+	"BigDecimalInt.h"
+
+1583869056 source:c:\users\pc\desktop\assignment_1\a1_p1_20180373_20180134_20180405\bigdecimalint.cpp
+	"BigDecimalInt.h"
+
+1583950883 c:\users\pc\desktop\assignment_1\a1_p1_20180373_20180134_20180405\bigdecimalint.h
+	<bits/stdc++.h>
+
+1583951156 source:c:\users\pc\desktop\assignment_1\a1_p1_20180373_20180134_20180405\main.cpp
+	<bits/stdc++.h>
+	"BigDecimalInt.h"
+
+1583869056 source:c:\users\pc\desktop\fcai y2 t2\ds\assignments\assignment_1\a1_p1_20180373_20180134_20180405\bigdecimalint.cpp
+	"BigDecimalInt.h"
+
+1583950883 c:\users\pc\desktop\fcai y2 t2\ds\assignments\assignment_1\a1_p1_20180373_20180134_20180405\bigdecimalint.h
+	<bits/stdc++.h>
+
+1584227832 source:c:\users\pc\desktop\fcai y2 t2\ds\assignments\assignment_1\a1_p1_20180373_20180134_20180405\main.cpp
+	<bits/stdc++.h>
+	"BigDecimalInt.h"
+

@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1583158980 source:c:\users\pc\desktop\oop\matrix\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1583876109 c:\users\pc\desktop\oop\matrix\matrix.h
+	<iostream>
+
+1583158160 source:c:\users\pc\desktop\oop\matrix\matrix.cpp
+	"Matrix.h"
+
+1583158160 source:c:\users\pc\desktop\assignment_1\problem_3\matrix.cpp
+	"Matrix.h"
+
+1583971864 c:\users\pc\desktop\assignment_1\problem_3\matrix.h
+	<iostream>
+
+1583970660 source:c:\users\pc\desktop\assignment_1\problem_3\main.cpp
+	<iostream>
+	"Matrix.h"
+	"MatrixCalculator.h"
+
+1583961910 source:c:\users\pc\desktop\assignment_1\problem_3\matrixcalculator.cpp
+	"MatrixCalculator.h"
+	"Matrix.h"
+
+1584016235 c:\users\pc\desktop\assignment_1\problem_3\matrixcalculator.h
+	"Matrix.h"
+
+1583970660 source:c:\users\pc\desktop\fcai y2 t2\ds\assignments\assignment_1\a1_p3_20180373_20180134_20180405\main.cpp
+	<iostream>
+	"Matrix.h"
+	"MatrixCalculator.h"
+
+1584298750 c:\users\pc\desktop\fcai y2 t2\ds\assignments\assignment_1\a1_p3_20180373_20180134_20180405\matrix.h
+	<iostream>
+
+1584293243 c:\users\pc\desktop\fcai y2 t2\ds\assignments\assignment_1\a1_p3_20180373_20180134_20180405\matrixcalculator.h
+	"Matrix.h"
+
+1583158160 source:c:\users\pc\desktop\fcai y2 t2\ds\assignments\assignment_1\a1_p3_20180373_20180134_20180405\matrix.cpp
+	"Matrix.h"
+
+1583961910 source:c:\users\pc\desktop\fcai y2 t2\ds\assignments\assignment_1\a1_p3_20180373_20180134_20180405\matrixcalculator.cpp
+	"MatrixCalculator.h"
+	"Matrix.h"
+

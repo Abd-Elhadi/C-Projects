@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1583871980 source:c:\users\pc\desktop\oop\fraction_1\main.cpp
+	<bits/stdc++.h>
+	"Fraction.h"
+
+1583873806 source:c:\users\pc\desktop\oop\fraction_1\fraction.cpp
+	"Fraction.h"
+	<bits/stdc++.h>
+	<sstream>
+
+1583871980 c:\users\pc\desktop\oop\fraction_1\fraction.h
+	<bits/stdc++.h>
+
+1583912405 source:c:\users\pc\desktop\assignment_1\problem_2\fraction.cpp
+	"Fraction.h"
+	<bits/stdc++.h>
+	<sstream>
+
+1583914509 c:\users\pc\desktop\assignment_1\problem_2\fraction.h
+	<bits/stdc++.h>
+
+1583933969 source:c:\users\pc\desktop\assignment_1\problem_2\main.cpp
+	<bits/stdc++.h>
+	"Fraction.h"
+	"FractionCalculator.h"
+
+1583970543 source:c:\users\pc\desktop\assignment_1\problem_2\fractioncalculator.cpp
+	"FractionCalculator.h"
+
+1583914511 c:\users\pc\desktop\assignment_1\problem_2\fractioncalculator.h
+	"Fraction.h"
+
+1583970543 source:c:\users\pc\desktop\fcai y2 t2\ds\assignments\assignment_1\a1_p2_20180373_20180134_20180405\fractioncalculator.cpp
+	"FractionCalculator.h"
+
+1583914511 c:\users\pc\desktop\fcai y2 t2\ds\assignments\assignment_1\a1_p2_20180373_20180134_20180405\fractioncalculator.h
+	"Fraction.h"
+
+1583914509 c:\users\pc\desktop\fcai y2 t2\ds\assignments\assignment_1\a1_p2_20180373_20180134_20180405\fraction.h
+	<bits/stdc++.h>
+
+1583933969 source:c:\users\pc\desktop\fcai y2 t2\ds\assignments\assignment_1\a1_p2_20180373_20180134_20180405\main.cpp
+	<bits/stdc++.h>
+	"Fraction.h"
+	"FractionCalculator.h"
+
+1584290323 source:c:\users\pc\desktop\fcai y2 t2\ds\assignments\assignment_1\a1_p2_20180373_20180134_20180405\fraction.cpp
+	"Fraction.h"
+	<bits/stdc++.h>
+	<sstream>
+

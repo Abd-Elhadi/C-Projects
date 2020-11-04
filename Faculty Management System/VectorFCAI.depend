@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1577475597 source:c:\users\pc\desktop\new folder\fcaivector.cpp
+	"FCAIVector.h"
+
+1577478170 c:\users\pc\desktop\new folder\fcaivector.h
+	<bits/stdc++.h>
+
+1577478402 source:c:\users\pc\desktop\new folder\main.cpp
+	<bits/stdc++.h>
+	"FCAIVector.h"
+
